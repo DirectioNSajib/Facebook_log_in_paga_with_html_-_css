@@ -1,0 +1,74 @@
+.maindiv
+{
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+    height: 100hv;
+
+}
+
+.logo
+{
+    color: rgb(9, 114, 201);
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.firstp
+{
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+
+.logodiv
+{
+
+    padding: 20px;
+    display: block;
+}
+
+.fromdiv
+{
+    padding: 20px;
+}
+
+.inputbox
+{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-left: 10px;
+    margin-top: 10px ;
+    padding: 10px;
+    
+}
+
+.forget
+{
+    text-align: center;
+    margin: auto;
+}
+
+.subbtn
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+
+
+}
+
+.createac
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
